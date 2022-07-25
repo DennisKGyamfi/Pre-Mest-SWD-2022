@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    color: #333:
+    width: 90vw;
+    max-width: 2500px
+}
+
+header {
+    margin-top: 5px;
+    background-color: #722F37;
+    border-radius: 10px; 
+}
+
+.logo {
+width: 50px;
+display: inline-block;
+}
+
+.nav-list {
+    text-align: right;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: white;
+    margin-right: 65px;   
+    font-size: 20px; 
+    padding-bottom: 15px;
+    position: relative;
+}
+
+.nav-list a:hover {
+    color: #FFFDD0;
+}
+
+fieldset {
+margin-top: 10px;
+}
+
+label {
+    margin: 20px;
+}
